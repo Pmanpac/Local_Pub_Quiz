@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Local Pub Quiz</string>
+
+    // Glavna aktivnost
+    <string name="btn_kvizovi">Moji kvizovi</string>
+    <string name="btn_novi_kviz"> Novi kviz </string>
+    <string name="btn_prijava"> Prijavi se na kviz </string>
+    <string name="labela_korisnicko_ime">Vaše korisničko ime:</string>
+
+    // Novi kviz aktivnost
+    <string name="labela_naziv_novi_kviz">Naziv Kviza</string>
+    <string name="btn_pregled_pitanja">Pregled pitanja</string>
+    <string name="btn_spremi_kviz">Spremi Kviz</string>
+
+    // Novo pitanje kativnost
+    <string name="labela_novo_pitanje">Tekst pitanja</string>
+    <string name="btn_novo_pitanje_spremi">Spremi</string>
+    <string name="btn_novo_pitanje_dodaj_novo">Dodaj novo pitanje</string>
+    <string name="btn_dodaj_odgovor">Dodaj Novi Odgovor</string>
+
+    // Izmijeni Kviz aktivnost
+    <string name="btn_spremi">Spremi</string>
+    <string name="btn_novo_pitanje">Dodaj novo pitanje</string>
+</resources>

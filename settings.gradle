@@ -1,0 +1,2 @@
+rootProject.name='Local Pub Quiz'
+include ':app'
